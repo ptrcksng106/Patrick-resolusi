@@ -4,14 +4,14 @@ Rencana Konten(Resolusi) Patrick
 - ini nyoba nulis aja
 - Belajar dulu gan
 - Menabahkan detail
-- Javascrpt
+
+- Javascript
   * ES6
   * Framework Javascript
-    ^ Vue
-    ^ React
-- Struktur Data Dasar
+  ^ Angular
+  ^ React
 - PHP Frameworks
   ^ Laravel
 - Interview
 - Vlogs
-- Phyton
+
