@@ -7,3 +7,4 @@ Rencana Konten(Resolusi) Patrick
 - Fundamental Struktur Data
 - Phyton
 - Laravel
+- Belajar React
