@@ -4,7 +4,14 @@ Rencana Konten(Resolusi) Patrick
 - ini nyoba nulis aja
 - Belajar dulu gan
 - Menabahkan detail
-- Fundamental Struktur Data
+- Javascrpt
+  * ES6
+  * Framework Javascript
+    ^ Vue
+    ^ React
+- Struktur Data Dasar
+- PHP Frameworks
+  ^ Laravel
+- Interview
+- Vlogs
 - Phyton
-- Laravel
-- Belajar React
