@@ -5,3 +5,5 @@ Rencana Konten(Resolusi) Patrick
 - Belajar dulu gan
 - Menabahkan detail
 - Fundamental Struktur Data
+- Phyton
+- Laravel
