@@ -3,4 +3,5 @@ Rencana Konten(Resolusi) Patrick
 - Mencoba hal baru
 - ini nyoba nulis aja
 - Belajar dulu gan
-- Menabahkan detail 
+- Menabahkan detail
+- Fundamental Struktur Data
